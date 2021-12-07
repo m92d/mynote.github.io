@@ -1,3 +1,3 @@
-# this is index
+# articles
 
 - [ルサンチマン](/article/ルサンチマン.md)
