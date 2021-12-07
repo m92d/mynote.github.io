@@ -1,3 +1,3 @@
 # articles
 
-- [ルサンチマン](/article/ルサンチマン.md)
+- [ルサンチマン](/article/ressentiment.md)
