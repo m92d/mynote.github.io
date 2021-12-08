@@ -1,4 +1,4 @@
-[index](/index.md)にもどる
+[index](/mynote.github.io/)にもどる
 
 # 【風姿花伝＠世阿弥】
 
