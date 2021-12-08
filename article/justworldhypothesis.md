@@ -1,4 +1,4 @@
-[index](/index.md)にもどる
+[index](/mynote.github.io/)にもどる
 
 # 公正世界仮説@メルビン・ラーナー
 
