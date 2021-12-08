@@ -1,4 +1,4 @@
-[index](/mynote.github.io/index.md)にもどる
+[index](/mynote.github.io/)にもどる
 
 # ルサンチマン@フリードリッヒ・ニーチェ
 
