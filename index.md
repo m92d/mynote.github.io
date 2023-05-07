@@ -10,3 +10,4 @@
 # other
 
 - [AIソフトウェア開発](/article/aisoftware.md)：AI開発は準委任契約で
+- [先行着手開発と請求](/article/aisoftware.md)：契約締結がない開発先行着手と請求
